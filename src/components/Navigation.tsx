@@ -1,4 +1,3 @@
-import React from "react";
 import { handleClickScroll } from "../util/helpers";
 
 const Navigation = () => {

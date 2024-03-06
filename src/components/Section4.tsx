@@ -1,5 +1,3 @@
-import React from "react";
-
 const Section4 = () => {
   return (
     <section className="section4" id="section4">
